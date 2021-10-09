@@ -1,6 +1,7 @@
 # raspberry-read-gpio
-Leemos los pins del GPIO de una Raspberry y mandamos correos con la info. 
+Leemos los pins del GPIO de una Raspberry y mandamos correos con la info.
 
+Este simple script lee los pins GPIO4 (pin 7) y GPIO1717 (pin 11) del GPIO de una Raspberry y cuando detecta una entrada envía un email a las cuentas de correo especificadas.  
 
 ## Paso 1
 Instalar Python en una Raspberry Pi
