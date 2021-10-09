@@ -25,3 +25,6 @@ Ejecutar errores.py
 Convertir errores.py en un servicio que arranque cuando enciedas la Rapsberry Pi
 
 https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
+
+### Mapa de los pines
+https://docs.microsoft.com/es-es/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi
